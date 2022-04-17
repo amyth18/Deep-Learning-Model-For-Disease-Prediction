@@ -1,1 +1,5 @@
-# CS598-Deep-Learning-Final-Project
+As part of our final project coursework for CS598 Deep Learning for Healthcare spring 2022, we have implemented a deep learning model from scratch as proposed in the paper titled [A disease inference method based on symptom extraction and bidirectional Long Short Term Memory networks](https://pubmed.ncbi.nlm.nih.gov/31301375/) by Donglin Guo et al.
+
+Please find the source code and all the documentation related to implementation in this [notebook](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/CS598_Deep_Learning_For_Healthcare_Final_Project.ipynb) in this repository. This notebook was developed in Google's Colab pro+ environment. We highly recommend using GPUs when testing this notebook.
+
+We have used MIMIC III version 1.4 dataset for training and evaluation of the model. We also mount and use Google Drive in the Colab environment as our persistence layer. If you choose to use another persistence layer then please make sure you make the necessary changes to paths in the cells.
