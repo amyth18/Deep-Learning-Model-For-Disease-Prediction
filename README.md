@@ -19,6 +19,7 @@ The following table provides the top level navigation map for this repository, p
 
 | File | Description |
 | --- | --- |
-|[Main_Prediction_Model_Final_Submission.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Main_Prediction_Model_Final_Submission.ipynb) | <ul><li>This is the <b>main file</b>, it contain end-to-end implementation of the proposed model and methods. <li> Also contains implementation for 2 out of the 3 baseline models we evaluate in this study as they share data processing steps.</ul> |
+|[Main_Model.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Main_Model.ipynb) | <ul><li>This is the <b>main file</b>, it contain end-to-end implementation of the proposed model and methods. <li> Also contains implementation for 2 out of the 3 baseline models we evaluate in this study as they share data processing steps.</ul> |
 | [Other_Baseline_Models.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Other_Baseline_Models.ipynb) | <ul><li>Contains implementaion for DeepLabeler, the 3rd baseline model we use in our evaluation study.
-| [Data_Cleaning.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Data_Cleaning.ipynb) | <ul><li>Utility code for data cleaning, exploration etc.</ul>
+| [Additional_Expertiments.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Additional_Expertiments.ipynb)| <ul><li>Contains code for additional experiments not mentioned in the paper.</ul>
+| [Misc_Utilities.ipynb](https://github.com/amyth18/CS598-Deep-Learning-Final-Project/blob/main/Misc_Utilities.ipynb) | <ul><li>Utility code for data cleaning, exploration etc.</ul>
